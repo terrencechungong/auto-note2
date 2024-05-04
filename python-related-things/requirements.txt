@@ -1,0 +1,5 @@
+Flask
+assemblyai
+requests
+flask_cors
+assemblyai[extras]
